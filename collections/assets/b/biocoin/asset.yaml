@@ -7,7 +7,15 @@ webids:
   coinmarketcap: biocoin
   telegram: biocoinchat_ru
   github: Blackithart
+  reddit: r/litecoin
+  github: litecoin-project
+  facebook: blabla
 tools:
   explorer:
     - 'http://block-explorer.biocoin.bio/'
 mineable: false
+webids:
+  twitter: Picovina
+  telegram: Litecoin
+
+Fees: 0.2
