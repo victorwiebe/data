@@ -1,13 +1,27 @@
 name: 0x
 symbol: ZRX
 type: token
-web:
-  - 'https://0xproject.com/'
+token_platform: Ethereum
+contract_address: 0xe41d2489571d322189246dafa5ebde1f4699f498
+decimals: 18
+star_date: 2017/08/01
+team:
+  - Will Warren
+  - Amir Bandeali
+  - Fabio Berger
+mineable: false
 webids:
-  coinmarketcap: 0x
-  github: 0xProject
+  web: https://0xproject.com/
+  github: https://github.com/0xProject/
+  reddit: https://reddit.com/r/0xproject
+  bitcointalk: https://bitcointalk.org/index.php?topic=2281635.0
+  coinmarketcap: https://coinmarketcap.com/currencies/0x/
+  twitter: https://twitter.com/0xproject
+  wiki: https://en.bitcoinwiki.org/wiki/0x
+  rocket_chat: https://chat.0xproject.com/
+  blog: https://blog.0xproject.com/latest
+  other_links: https://forum.0xproject.com/
+whitepaper: https://0xproject.com/pdfs/0x_white_paper.pdf
 tools:
   explorer:
-    - 'https://etherscan.io/token/ZRX'
-    - 'https://ethplorer.io/address/0xe41d2489571d322189246dafa5ebde1f4699f498'
-mineable: false
+    - https://etherscan.io/token/ZRX
