@@ -20,5 +20,5 @@ webids:
 email: info@10mtoken.com
 tools:
   explorer:
-    - 'https://etherscan.io/token/0xe701cd3329057aea9d54300ddd05e41b8d74727a'
-    - 'https://ethplorer.io/address/0xe701cd3329057aea9d54300ddd05e41b8d74727a'
+    - https://etherscan.io/token/0xe701cd3329057aea9d54300ddd05e41b8d74727a
+    - https://ethplorer.io/address/0xe701cd3329057aea9d54300ddd05e41b8d74727a
