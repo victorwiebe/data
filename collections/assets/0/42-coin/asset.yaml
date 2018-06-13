@@ -1,27 +1,21 @@
 name: 42-coin
-symbol: '42'
-intro:
-  42 is a free open source project derived from Bitcoin, with the goal
-  of providing a long-term energy-efficient scrypt-based crypto-currency.
-  Built on the foundation of Bitcoin and PPCoin, innovations such
-  as proof-of-stake help further advance the field of crypto-currency.
-start_date: '2016-11-12'
-proof_type: PoW + PoS
-web:
-  - http://42-coin.org/
-max_supply: 42
-transaction_type: public + private
-algorithm: scrypt
-type: currency
+symbol: 42
+type: coin
+start_date: 2016/11/12
+proof_type: PoS + PoW
+scrypt: Scrypt
 minable: false
 webids:
-  twitter: 42newchain (https://twitter.com/42newchain)
-  telegram: newchain42 (https://t.me/newchain42)
-  reddit:
-  github: 42-coin (https://github.com/42-coin/42)
-  bitcointalk: 42/coin (https://bitcointalk.org/index.php?topic=1502028)
-  wiki: 42-coin (https://en.bitcoinwiki.org/wiki/42-coin)
-  mail: 42-coin@protonmail.com
+  web: http://42-coin.org/
+  github: https://github.com/42-coin/42
+  coinmarketcap: https://coinmarketcap.com/currencies/42-coin/
+  twitter: https://twitter.com/42newchain
+  telegram: https://t.me/newchain42
+  wiki: https://en.bitcoinwiki.org/wiki/42-coin
+  other_links:
+    - https://discordapp.com/invite/ge2gUHy
+    - https://kiwiirc.com/client/chat.freenode.net/##42coin
+mail: 42-coin@protonmail.com
 tools:
   explorer:
     - https://chainz.cryptoid.info/42/

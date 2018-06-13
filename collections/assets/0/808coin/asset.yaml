@@ -1,12 +1,20 @@
 name: 808Coin
-symbol: '808'
+symbol: 808
 type: coin
-web:
-  - 'http://808bass.space/'
+start_date: 2016/06/30
+profe_type: PoS + PoW
+scrypt: SHA256
+mineable: true
 webids:
-  coinmarketcap: 808coin
-  github: maxxine
+  web: http://808bass.space/
+  github: https://github.com/maxxine/808
+  bitcointalk: https://bitcointalk.org/index.php?topic=1532606.0
+  coinmarketcap: https://coinmarketcap.com/currencies/808Coin/
+  twitter: https://twitter.com/808BassCoin
+  steem: https://steemit.com/bitcoin/@crypterg1313/a-tribute-to-tr-roland-808-808-cryptocurrency
+  slack: https://808basscoin247.slack.com/join/shared_invite/MjE2NjQ1NjkxNTQxLTE1MDA4MzUzMTEtNWE2ODc1YjEzNg
+  other_links:
+    - https://discordapp.com/invite/tQJaCrd
 tools:
   explorer:
-    - 'http://explorer.808bass.space'
-mineable: true
+    - https://808.btcpop.co/

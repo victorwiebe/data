@@ -1,11 +1,26 @@
 name: 2GIVE
 symbol: 2GIVE
 type: coin
+start_date: 2016/04/18
+team:
+  - Little Duke
+profe_type: PoS
+scrypt: LIBQRCODE
+mineable: true
 web:
   - 'https://2give.info/'
 webids:
-  coinmarketcap: 2give
+  web: https://2give.info/
+  github: https://github.com/LittleDuke/2GIVE
+  reddit: https://www.reddit.com/r/2GIVE/
+  bitcointalk: https://bitcointalk.org/index.php?topic=741714
+  coinmarketcap: https://coinmarketcap.com/currencies/2GIVE/
+  twitter: https://twitter.com/2GiveCoin
+  facebook: https://www.facebook.com/projectgivecoin
+  other_links: https://client02.chat.mibbit.com/?channel=%232givecoin&server=irc.mibbit.net
+whitepaper: https://docs.google.com/document/d/1ytrq66dNvYJ0Za9ty6hLpL3ddJ8D_PkBMa4pBJxKhW4/edit
+email: support@strength-in-numbers.org
 tools:
   explorer:
-    - 'https://www.blockexperts.com/2give'
-mineable: true
+    - https://chainz.cryptoid.info/2give/
+    - http://xplor.2give.info/2Give/

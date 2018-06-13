@@ -1,16 +1,29 @@
 name: Elite
-symbol: '1337'
+symbol: 1337
 type: coin
-web:
-  - 'https://www.1337coin.net/'
-resources:
-  message-board:
-    - 'https://bitcointalk.org/index.php?topic=2249640'
+start_date: 2017/10/09
+team:
+  - Xenonflux
+  - Ladywhalecoin
+  - Ironsniper
+  - Nappsuelze
+  - Feedan
+profe_type: PoS
+scrypt: X13
+mineable: false
 webids:
-  coinmarketcap: 1337coin
-  telegram: elitecoinofficial
-  github: xenonflux
+  web: https://www.elitecurrency.net/
+  github: https://github.com/xenonflux/
+  reddit: https://www.reddit.com/r/1337Foundation/
+  bitcointalk: https://bitcointalk.org/index.php?topic=2249640
+  coinmarketcap: https://coinmarketcap.com/currencies/Elite/
+  twitter: https://twitter.com/1337CoinUpdates
+  telegram: https://t.me/elitecoinofficial
+  facebook: https://www.facebook.com/1337Foundation/
+  youtube: https://www.youtube.com/channel/UC905TTYyKHbYJBI6XRkIRGA
+  other_links:
+    - https://discordapp.com/invite/np7BmKV
+email: 1337foundationhelp@gmail.com
 tools:
   explorer:
-    - 'https://chainz.cryptoid.info/1337/'
-mineable: false
+    - https://chainz.cryptoid.info/1337/

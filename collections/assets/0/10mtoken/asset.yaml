@@ -1,12 +1,24 @@
 name: 10M Token
 symbol: 10MT
 type: token
-web:
-  - 'https://www.10mtoken.com/'
+token_platform: Ethereum
+contract_address: 0xe701cd3329057aea9d54300ddd05e41b8d74727a
+decimals: 10
+start_date: 2017/10/01
+team:
+  - Ting Lin
+  - Alex Mei
+  - Leo Yang
+  - Kevin Qian
+mineable: false
 webids:
-  coinmarketcap: 10mtoken
+  web: https://www.10mtoken.com/
+  bitcointalk: https://bitcointalk.org/index.php?topic=2249893.0
+  twitter: https://twitter.com/10m_token
+  telegram: https://t.me/joinchat/GujNdRCH2FcZeBcGohw17A
+  youtube: https://www.youtube.com/watch?v=YS477JcLMwE&feature=youtu.be
+email: info@10mtoken.com
 tools:
   explorer:
     - 'https://etherscan.io/token/0xe701cd3329057aea9d54300ddd05e41b8d74727a'
     - 'https://ethplorer.io/address/0xe701cd3329057aea9d54300ddd05e41b8d74727a'
-mineable: false

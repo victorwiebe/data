@@ -1,15 +1,19 @@
 name: 8Bit
 symbol: 8BIT
 type: coin
-web:
-  - 'http://www.8-bit.ga/'
-resources:
-  source:
-    - 'https://bitbucket.org/8bitcoin/8bit/'
+star_date: 2015/04/14
+profe_type: PoW
+scrypt: Scrypt
+mineable: false
 webids:
-  coinmarketcap: 8bit
+  web: http://www.8bit.trade/
+  github: https://github.com/LittleDuke/2GIVE
+  bitcointalk: https://bitcointalk.org/index.php?topic=1028119
+  coinmarketcap: https://coinmarketcap.com/currencies/8Bit/
+  other_links:
+    - https://bitbucket.org/8bitcoin/8bit/
+    - https://www.worldcoinindex.com/coin/8bit
 tools:
   explorer:
-    - 'http://explorer.8bit.trade/'
-    - 'http://explorer.8-bit.ga/'
-mineable: false
+    - https://chainz.cryptoid.info/8bit/
+    - http://explorer.8bit.trade/

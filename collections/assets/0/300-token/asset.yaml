@@ -1,12 +1,19 @@
 name: 300 Token
 symbol: '300'
 type: token
-web:
-  - 'http://300tokensparta.com/'
+token_platform: Ethereum
+contract_address: 0xaec98a708810414878c3bcdf46aad31ded4a4557
+decimals: 18
+start_date: 2017/07/01
+mineable: false
 webids:
-  coinmarketcap: 300-token
+  web: http://300tokensparta.com/
+  bitcointalk: https://bitcointalk.org/index.php?topic=1992952.0
+  coinmarketcap: https://coinmarketcap.com/currencies/300 Token/
+  twitter: https://twitter.com/300_token
+  telegram: https://t.me/spartan300token
+email: 300tokensparta@gmail.com
 tools:
   explorer:
-    - 'https://etherscan.io/token/0xaec98a708810414878c3bcdf46aad31ded4a4557'
-    - 'https://ethplorer.io/address/0xaec98a708810414878c3bcdf46aad31ded4a4557'
-mineable: false
+    - https://etherscan.io/token/0xaec98a708810414878c3bcdf46aad31ded4a4557
+    - https://ethplorer.io/address/0xaec98a708810414878c3bcdf46aad31ded4a4557
