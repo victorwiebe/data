@@ -7,8 +7,6 @@ team:
 profe_type: PoS
 scrypt: LIBQRCODE
 mineable: true
-web:
-  - 'https://2give.info/'
 webids:
   web: https://2give.info/
   github: https://github.com/LittleDuke/2GIVE
