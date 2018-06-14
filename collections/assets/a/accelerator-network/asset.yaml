@@ -1,17 +1,25 @@
 name: Accelerator Network
 symbol: ACC
 type: token
-web:
-  - 'https://accelerator.network/'
-resources:
-  message-board:
-    - 'https://medium.com/accelerator-network'
+token_platform: Ethereum
+contract_address: 0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2
+decimals: 18
+start_day: 2017/10/26
+proofe_type: PoS
+mineable: false
 webids:
-  coinmarketcap: accelerator-network
-  telegram: acc_token
-  github: acceleratornetwork
+  web: https://accelerator.network/
+  github: https://github.com/acceleratornetwork/accelerator-token
+  coinmarketcap: https://coinmarketcap.com/currencies/Accelerator Network/
+  twitter: https://twitter.com/Accelerator_Net
+  telegram: https://t.me/acc_token
+  medium: https://medium.com/accelerator-network
+  slack: https://slack.accelerator.network/
+  other_links:
+    - https://www.coingecko.com/en/coins/accelerator-network/
+whitepaper: https://accelerator.network/whitepaper.pdf
+email: help@accelerator.network
 tools:
   explorer:
-    - 'https://etherscan.io/token/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2'
-    - 'https://ethplorer.io/address/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2'
-mineable: false
+    - https://etherscan.io/token/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2
+    - https://ethplorer.io/address/0x13f1b7fdfbe1fc66676d56483e21b1ecb40b58e2

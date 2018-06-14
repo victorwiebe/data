@@ -1,11 +1,13 @@
 name: Aces
 symbol: ACES
 type: coin
-web: []
-webids:
-  coinmarketcap: aces
-  telegram: acescoinchat
-  github: aces-coin
-tools:
-  explorer: []
+start_day: 2016/07/28
+proofe_type: PoS + PoW
+scrypt: X13
 mineable: false
+webids:
+  github: https://github.com/aces-coin/AcesCoin
+  bitcointalk: https://bitcointalk.org/index.php?topic=1568436.0
+  coinmarketcap: https://coinmarketcap.com/currencies/Aces/
+  twitter: https://twitter.com/CoinAces
+  telegram: https://t.me/acescoinchat

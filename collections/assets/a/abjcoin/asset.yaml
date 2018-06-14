@@ -1,13 +1,31 @@
 name: Abjcoin
 symbol: ABJ
 type: coin
-web:
-  - 'https://www.abjcoin.org/'
+start_day: 2017/10/12
+team:
+  - Osiobe Ogenekparobo
+  - Remi Dairo
+  - Cahyo Dwi
+  - Mark Hong-china
+  - Samuel Benedict O
+  - O. O. Daniels
+  - Egbuna Jerome
+  - Rabie Elmansouri
+  - Christopher King Bowofade
+  - Jeffry Okuse
+  - Igwe Chrisent
+  - Ojekemi Muiywa Ayorinde
+proofe_type: PoS
+mineable: true
 webids:
-  coinmarketcap: abjcoin
-  telegram: joinchat/GsIPTEPs0w9qTLNYZ_2IeQ
-  github: abjcoinblockchain
+  web: https://www.abjcoin.org/
+  github: https://github.com/abjcoinblockchain
+  bitcointalk: https://bitcointalk.org/index.php?topic=2260840
+  coinmarketcap: https://coinmarketcap.com/currencies/Abjcoin/
+  twitter: https://twitter.com/abjcoincommerce
+  telegram: https://t.me/officialabjcoinchannel
+  facebook: https://www.facebook.com/abjcoinblockchain
+  instagram: https://www.instagram.com/abjcoincommerce/
 tools:
   explorer:
-    - 'http://www.abjcoin.io/'
-mineable: true
+    - http://www.abjcoin.io/

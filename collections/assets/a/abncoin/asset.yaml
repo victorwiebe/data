@@ -1,11 +1,7 @@
 name: Abncoin
 symbol: ABN
 type: coin
-web:
-  - 'https://aviabitcoin.com/'
-webids:
-  coinmarketcap: abncoin
-tools:
-  explorer:
-    - 'http://93.95.97.96:3001/'
+start_day: 2017/01/20
 mineable: true
+webids:
+  coinmarketcap: https://coinmarketcap.com/fr/currencies/abncoin/

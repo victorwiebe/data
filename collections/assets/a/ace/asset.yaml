@@ -1,14 +1,37 @@
 name: Ace
 symbol: ACE
 type: token
-web:
-  - 'https://tokenstars.com/en/ace'
+token_platform: Ethereum
+contract_address: 0x06147110022b768ba8f99a8f385df11a151a9cc8
+decimals: 0
+start_day: 2017/03/01
+team:
+  - Pavel Stukolov
+  - Evgeniy Potapov
+  - Aler Denisov
+  - Timur Gavrilov
+  - Irina Shashkina
+  - Madina Hooke
+  - Mikhailius Derkach
+  - Nick Grigoriev
+  - Lena Mintz
+  - Irina Soshinskaya
+proofe_type: PoW
+mineable: false
 webids:
-  coinmarketcap: ace
-  telegram: TokenStars_en
-  github: token-stars
+  web: https://tokenstars.com/ace/
+  github: https://github.com/tokenstars/ace-token
+  reddit: https://www.reddit.com/r/TokenStars/
+  bitcointalk: https://bitcointalk.org/index.php?topic=2043613.0
+  coinmarketcap: https://coinmarketcap.com/currencies/Ace/
+  twitter: https://twitter.com/TokenStars
+  telegram: https://t.me/TokenStars_en
+  medium: https://medium.com/@tokenstars
+  facebook: https://www.facebook.com/TokenStars/
+  coingecko: https://www.coingecko.com/en/coins/ace/
+whitepaper: https://tokenstars.com/upload/files/ace_by_tokenstars_whitepaper.pdf
+email: tokenstars@tokenstars.com
 tools:
   explorer:
-    - 'https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8'
-    - 'https://ethplorer.io/address/0x06147110022b768ba8f99a8f385df11a151a9cc8'
-mineable: false
+    - https://etherscan.io/token/0x06147110022b768ba8f99a8f385df11a151a9cc8
+    - https://ethplorer.io/address/0x06147110022b768ba8f99a8f385df11a151a9cc8
