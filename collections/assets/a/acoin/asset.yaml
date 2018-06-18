@@ -1,12 +1,13 @@
 name: Acoin
 symbol: ACOIN
 type: coin
-web:
-  - 'https://acoin.info/'
-webids:
-  coinmarketcap: acoin
-  github: acoin-project
-tools:
-  explorer:
-    - 'https://www.blockexperts.com/acoin'
+start_date: 2014/08/29
+proof_type: PoW
+scrypt: SHA-256
 mineable: true
+webids:
+  web: https://acoin.info/
+  github: https://github.com/acoin-project/acoin
+  coinmarketcap: https://coinmarketcap.com/currencies/Acoin/
+  twitter: https://twitter.com/acoinproject
+  other_links: https://discordapp.com/invite/cZ2wjry

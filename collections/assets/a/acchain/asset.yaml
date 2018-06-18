@@ -1,11 +1,26 @@
 name: ACChain
 symbol: ACC
 type: coin
-web:
-  - 'https://www.acchain.org/'
-webids:
-  coinmarketcap: acchain
-  github: sxmz
-tools:
-  explorer: []
+start_date: 2017/06/01
+team:
+  - Jia Wan
+  - Qing Feng Shan
+  - Hao Tian Yu
+  - Sheng Zhang
+  - Ben Gibbons
+  - Joe F. Attrux
+  - Jing Zhu Zhao
+  - Cheng Jun Piao
 mineable: false
+webids:
+  web: https://www.acchain.org/
+  github: https://github.com/sxmz/acchain
+  coinmarketcap: https://coinmarketcap.com/currencies/ACChain/
+  twitter: https://twitter.com/ACCHAIN_
+  telegram: https://t.me/joinchat/HnzBmA_lvrld-GphUKfv1w
+  facebook: https://www.facebook.com/ACChainGlobal/
+  slack: https://acchain-group.slack.com/join/shared_invite/enQtMjk0NjgwMTQ2OTMzLWQ4MGIxYWU5MWMwMGVkMjJlY2FkNmY1Y2M1ZDBkYzJlOGY5ZTAzYTQwMzA2YTdiNWI2ZWU5ZDA3NmI0ZGQ0OWQ
+email: contact@acchain.org
+tools:
+  explorer:
+    - https://www.acchain.org/en/assets_link.html

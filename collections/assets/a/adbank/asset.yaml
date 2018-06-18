@@ -1,16 +1,31 @@
 name: adbank
 symbol: ADB
 type: token
-web:
-  - 'https://adbank.network/'
-resources:
-  message-board:
-    - 'https://medium.com/adbank-blog'
+token_platform: Ethereum
+contract_address: 0x2baac9330cf9ac479d819195794d79ad0c7616e3
+decimals: 18
+start_date: 2017/12/13
+team:
+  - Angelo Dodaro
+  - Jon Gillham
+  - Chiron Bramberger
+  - Kelsey Cole
+mineable: false
 webids:
-  coinmarketcap: adbank
-  telegram: joinchat/GPdeT0mPAe7bz36x-FSQ1w
+  web: https://adbank.network/
+  reddit: https://www.reddit.com/r/adbank/
+  bitcointalk: https://bitcointalk.org/index.php?topic=2408335.0
+  coinmarketcap: https://coinmarketcap.com/currencies/adbank/
+  twitter: https://twitter.com/adbanknetwork
+  telegram: https://t.me/joinchat/GPdeT0mPAe7bz36x-FSQ1w
+  medium: https://medium.com/adbank-blog
+  facebook: https://www.facebook.com/adbanknetwork
+  youtube: https://www.youtube.com/channel/UCsZg2dWT9Y1qwCUNs9MEuhA
+  coingecko: https://www.coingecko.com/en/coins/adbank/
+  linkedin: https://www.linkedin.com/company/11287631/
+whitepaper: https://www.adbank.network/Whitepaper_AdBank2017.pdf
+email: hello@adbank.network
 tools:
   explorer:
-    - 'https://etherscan.io/token/0x2baac9330cf9ac479d819195794d79ad0c7616e3'
-    - 'https://ethplorer.io/address/0x2baac9330cf9ac479d819195794d79ad0c7616e3'
-mineable: false
+    - https://etherscan.io/token/0x2baac9330cf9ac479d819195794d79ad0c7616e3
+    - https://ethplorer.io/address/0x2baac9330cf9ac479d819195794d79ad0c7616e3

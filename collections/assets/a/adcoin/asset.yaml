@@ -1,13 +1,22 @@
 name: AdCoin
 symbol: ACC
 type: coin
-web:
-  - 'https://www.getadcoin.com/'
-webids:
-  coinmarketcap: adcoin
-  telegram: adcoinacc
-  github: adcoin-project
-tools:
-  explorer:
-    - 'http://explorer.getadcoin.com:5000/'
+start_date: 2017/01/01
+team:
+  - Patrick van Dijl
+  - Jerry Donker
+  - Niels-Jan van der Hoek
+  - Ricardo Oosterling
+proof_type: PoW
+scrypt: scrypt
 mineable: true
+webids:
+  web: https://www.getadcoin.com/
+  github: https://github.com/adcoin-project
+  coinmarketcap: https://coinmarketcap.com/currencies/AdCoin/
+  twitter: https://twitter.com/getadcoin
+  telegram: https://t.me/adcoinacc
+  facebook: https://www.facebook.com/getadcoin
+  blog: https://www.getadcoin.com/blog/
+whitepaper: https://www.getadcoin.com/wp-content/uploads/2018/01/Whitepaper_AdCoin.pdf
+email: support@getadcoin.com
