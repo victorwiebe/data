@@ -1,0 +1,80 @@
+name:
+symbol:
+intro:
+type: coin/token
+token_platform:
+contract_address:
+decimals:
+start_date: YYYY/MM/DD
+team:
+  -
+  -
+  -
+proof_type: PoW/PoS/Pos+Pow
+scrypt:
+minable: true/false
+webids:
+  web:
+  web_2:
+  github:
+  reddit:
+  bitcointalk:
+  coinmarketcap:
+  twitter:
+  telegram:
+  medium:
+  facebook:
+  wiki:
+  steem:
+  youtube:
+  slack:
+  slack_2:
+  rocker_chat:
+  blog:
+  instagram:
+  coingecko:
+  linkedin:
+  other_links:
+    -
+    -
+whitepaper:
+  -
+email:
+tools:
+  explorer:
+    -
+    -
+    -
+max_supply:
+distribution:
+  - distribution_1_percent
+  - distribution_2_percent
+  - distribution_3_percent
+tags:
+  -
+  -
+  -
+use_case:
+  -
+  -
+  -
+target_market:
+  -
+  -
+  -
+technology:
+  -
+  -
+  -
+history:
+  -
+  -
+  -
+partners:
+  -
+  -
+  -
+resources/reviews:
+  -
+  -
+  -

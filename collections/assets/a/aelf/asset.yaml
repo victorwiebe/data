@@ -1,17 +1,14 @@
 name: aelf
 symbol: ELF
 type: token
-web:
-  - 'http://aelf.io/'
-resources:
-  message-board:
-    - 'https://medium.com/@aelfblockchain'
+mineable: false
 webids:
-  coinmarketcap: aelf
-  telegram: aelfblockchain
-  github: aelfProject
+  web: http://aelf.io/
+  github: https://github.com/aelfProject
+  coinmarketcap: https://coinmarketcap.com/currencies/aelf/
+  telegram: https://t.me/aelfblockchain
+  medium: https://medium.com/@aelfblockchain
 tools:
   explorer:
-    - 'https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e'
-    - 'https://ethplorer.io/address/0xbf2179859fc6d5bee9bf9158632dc51678a4100e'
-mineable: false
+    - https://etherscan.io/token/0xbf2179859fc6D5BEE9Bf9158632Dc51678a4100e
+    - https://ethplorer.io/address/0xbf2179859fc6d5bee9bf9158632dc51678a4100e

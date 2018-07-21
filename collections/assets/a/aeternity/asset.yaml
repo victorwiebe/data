@@ -1,13 +1,15 @@
 name: Aeternity
 symbol: AE
 type: token
-web:
-  - 'https://www.aeternity.com/'
+token_platform: Ethereum
+contract_address: 0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d
+mineable: false
 webids:
-  coinmarketcap: aeternity
-  github: aeternity
+  web: https://www.aeternity.com/
+  github: https://github.com/aeternity
+  coinmarketcap: https://coinmarketcap.com/currencies/Aeternity/
+  wiki: https://en.bitcoinwiki.org/wiki/Aeternity
 tools:
   explorer:
-    - 'https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d'
-    - 'https://ethplorer.io/address/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d'
-mineable: false
+    - https://etherscan.io/token/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d
+    - https://ethplorer.io/address/0x5ca9a71b1d01849c0a95490cc00559717fcf0d1d

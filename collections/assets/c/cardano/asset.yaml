@@ -1,15 +1,89 @@
 name: Cardano
 symbol: ADA
+intro: Cardano is an open source cryptocurrency
 type: coin
-web:
-  - 'https://www.cardanohub.org/'
-resources:
-  message-board:
-    - 'https://forum.cardanohub.org/'
+token_platform:
+contract_address:
+decimals:
+start_date: 2018/09/01
+team:
+  - Cardano Foundation
+  - IOHK
+  - Emurgo
+proof_type: PoS
+scrypt: Orobouros
+minamble: false
 webids:
-  coinmarketcap: cardano
-  github: input-output-hk
+  web: https://www.cardanohub.org/
+  web_2:
+  github: https://github.com/input-output-hk/cardano-sl/
+  reddit: https://www.reddit.com/r/cardano/
+  bitcointalk: https://bitcointalk.org/index.php?topic=2223705.0
+  coinmarketcap: https://coinmarketcap.com/currencies/Cardano/
+  twitter: https://twitter.com/cardanocom
+  telegram: https://t.me/CardanoAnnouncements
+  medium:
+  facebook: https://www.facebook.com/groups/CardanoCommunity/about/
+  wiki: https://en.bitcoinwiki.org/wiki/Cardano
+  steem:
+  youtube: https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg
+  slack: https://discordapp.com/invite/27KvYjS
+  slack_2:
+  rocker_chat:
+  blog:
+  instagram:
+  coingecko:
+  linkedin:
+  other_links:
+    - https://forum.cardano.org/
+whitepaper:
+  - https://iohk.io/research/papers/?__hstc=64163184.f43d1745967bb113abc70ce4acfdc120.1532192963603.1532192963603.1532192963603.1&__hssc=64163184.14.1532192963603&__hsfp=1314835113#9BKRHCSI
+  - https://iohk.io/research/papers/?__hstc=64163184.f43d1745967bb113abc70ce4acfdc120.1532192963603.1532192963603.1532192963603.1&__hssc=64163184.14.1532192963603&__hsfp=1314835113#XJ6MHFXX
+  - https://iohk.io/research/papers/?__hstc=64163184.f43d1745967bb113abc70ce4acfdc120.1532192963603.1532192963603.1532192963603.1&__hssc=64163184.14.1532192963603&__hsfp=1314835113#P684RSHV
+  - https://iohk.io/research/papers/?__hstc=64163184.f43d1745967bb113abc70ce4acfdc120.1532192963603.1532192963603.1532192963603.1&__hssc=64163184.14.1532192963603&__hsfp=1314835113#UHIMH3DV
+  - https://iohk.io/research/papers/?__hstc=64163184.f43d1745967bb113abc70ce4acfdc120.1532192963603.1532192963603.1532192963603.1&__hssc=64163184.14.1532192963603&__hsfp=1314835113#67CHCNP8
+email: info@cardanohub.com
 tools:
   explorer:
-    - 'https://cardanoexplorer.com/'
-mineable: false
+    - https://cardanoexplorer.com/
+    -
+    -
+max_supply: 45000000000
+distribution:
+  - 25927070538
+    - 58%
+    - public
+  - 5185414108
+    - 12%
+    - governence
+  - 13887515354
+    - 31%
+    - miners
+tags:
+  - public
+  -
+  -
+use_case:
+  - currency
+  -
+  -
+target_market:
+  - public
+  -
+  -
+technology:
+  - public blockchain
+  -
+  -
+history:
+  - 2018/05/18 - partnership with South Korean paymant platfrom Metaps plus
+  -
+  -
+partners:
+  - Metaps plus
+  -
+  -
+resources/reviews:
+  - https://btcmanager.com/cardano-review/
+  - https://medium.com/the-bitcoin-podcast-blog/a-petty-crypto-review-cardano-a2c99fd413af
+  - https://www.cryptocoinjudge.com/cardano/

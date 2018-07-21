@@ -1,14 +1,37 @@
 name: Adelphoi
 symbol: ADL
 type: token
-web:
-  - 'https://www.adelphoi.io/'
+token_platform: Nxt
+contract_address: 0x660e71483785f66133548B10f6926dC332b06e61
+decimals: 18
+start_day: 2017/03/17
+mineable: false
 webids:
-  coinmarketcap: adelphoi
-  telegram: Adelphoi
-  github: adelecosystem
+  web: https://www.adelphoi.io/
+  github: https://github.com/adelecosystem
+  reddit: https://www.reddit.com/r/Adel/
+  bitcointalk: https://bitcointalk.org/index.php?topic=2135312
+  coinmarketcap: https://coinmarketcap.com/currencies/adelphoi/
+  twitter: https://twitter.com/adelphoi_io
+  telegram: https://t.me/Adelphoi
+  facebook: https://www.facebook.com/Adelphoi.io
+  wiki: https://en.bitcoinwiki.org/wiki/Adelphoi
+  youtube: https://www.youtube.com/channel/UC90BbGKzqnlqDUHgw0K7mhw
+  slack: https://adel-signup.herokuapp.com/
+  slack: https://nxtplatform.org/slack/
+  instagram: https://www.instagram.com/adelphoi.io/
+  linkedin: https://www.linkedin.com/company/adelphoi/
+  other_links:
+    - https://vimeo.com/adelecosystem
+    - https://adelecosystem.tumblr.com/
+    - https://coinlib.io/coin/ADL/Adelphoi
+    - https://bitcoingarden.org/forum/index.php?topic=18762.new#new
+    - https://thewiring.com/groups/adel/
+    - https://forobits.com/t/adel-ico-finalizada/4074/36
+whitepaper: https://denkomanceski--adel.directus.io/storage/Adel_-_White_paper_(1._Building_a_Decentralized_Ecosystem,_v6.4).pdf
+email: info@adel.io
 tools:
   explorer:
-    - 'https://www.mynxt.info/asset/17477397104276156702'
-    - 'https://nxtportal.org/assets/17477397104276156702'
-mineable: false
+    - https://etherscan.io/token/0x660e71483785f66133548B10f6926dC332b06e61
+    - https://www.mynxt.info/asset/17477397104276156702
+    - https://nxtportal.org/assets/17477397104276156702

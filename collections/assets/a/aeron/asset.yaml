@@ -1,17 +1,17 @@
 name: Aeron
 symbol: ARN
 type: token
-web:
-  - 'https://aeron.aero/'
-resources:
-  message-board:
-    - 'https://medium.com/@aeronaero'
+token_platform: Ethereum
+contract_address: 0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6
+mineable: false
 webids:
-  coinmarketcap: aeron
-  telegram: aeronaero
-  github: aeronaero
+  web: https://aeron.aero/
+  github: https://github.com/aeronaero
+  coinmarketcap: https://coinmarketcap.com/currencies/Aeron/
+  telegram: https://t.me/aeronaero
+  medium: https://medium.com/@aeronaero
+  wiki: https://en.bitcoinwiki.org/wiki/Aeron
 tools:
   explorer:
-    - 'https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6'
-    - 'https://ethplorer.io/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6'
-mineable: false
+    - https://etherscan.io/token/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6
+    - https://ethplorer.io/address/0xBA5F11b16B155792Cf3B2E6880E8706859A8AEB6
