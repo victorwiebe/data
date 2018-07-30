@@ -1,0 +1,58 @@
+id: cardano
+name: cardano
+start_date: '2018-09-01'
+web:
+- https://www.cardanohub.org/
+assets:
+- id: ada
+  symbol: ADA
+  name: Cardano
+  type: blockchain
+  networks:
+  - id: main
+    type: main
+    name: mainnet
+    proof_type: PoS
+    algorithm: Orobouros
+    mineable: false
+    tools:
+    - type: explorer
+  max_supply: 45000000000
+  first_distribution:
+  - title: Satoshi Nakamoto
+    amount: 10000
+  ico_properties:
+    start_date: '2015-01-09'
+    end_date: '2017-01-01'
+    total_cap: 26000000000
+    ico_price: 0.02 USD
+    raised: 63000000 USD
+    country: Switzerland
+team:
+- name: Cardano Foundation
+  role: founder
+contacts:
+  email: info@cardanohub.com
+  location:hq: Zug, Switzerland
+whitepapers:
+- title: 'Ouroboros: A Provably Secure Proof-of-Stake Blockchain Protocol'
+  url: https://iohk.io/research/papers/?__hstc=64163184.f43d1745967bb113abc70ce4acfdc120.1532192963603.1532192963603.1532192963603.1&__hssc=64163184.14.1532192963603&__hsfp=1314835113#9BKRHCSI
+tags:
+- public
+webids:
+  facebook: groups/CardanoCommunity/about/
+  git_repository:github: input-output-hk/cardano-sl/
+  forum:bitcointalk: index.php?topic=2223705.0
+  forum: https://forum.cardano.org/
+partners:
+- name: Metaps plus
+  url: http://www.metapsplus.com/
+history:
+- date: '2018-05-18'
+  title: Domain 'Bitcoin.org' registered
+- date: '2008-10-31'
+  title: Cardano (ADA) Partners with Major South Korean Payment Platform, Metaps Plus
+  description: 'partnership with South Korean paymant platfrom Metaps'
+resources:
+- title: Cardano Review
+  url: https://btcmanager.com/cardano-review/
