@@ -1,0 +1,50 @@
+name: Kleros
+web:
+  - 'http://kleros.io/'
+assets:
+  - id: pnk
+    type: token
+    ledger: ethereum
+    name: Pinakion
+    symbol: PNK
+    contract_address: '0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d'
+    decimals: 18
+    ico_properties:
+      start_date: '2018-05-15'
+      end_date: '2018-07-15'
+      total_cap: 160000000
+      raised: 5794 ETH
+team:
+  - name: Federico Ast
+    role: Co-founder, CEO
+    photo: https://kleros.io/2565e44c42491720181359ce9f9a62fb.png
+    webids:
+      linkedin: federicoast
+      twitter: federicoast
+  - name: Clément Lesaege
+    role: Co-founder, CTO
+    photo: https://kleros.io/ff99c3ba4e2b56bae6d44b184a9b20b5.png
+    webids:
+      github: clesaege
+      linkedin: clément-lesaege-a326b9ab
+      twitter: clesaege
+  - name: Nicolas Wagner
+    role: Co-founder, web3 developer
+    photo: https://kleros.io/d68d6c59553efeee05b9d3555c8d3dbf.png
+    webids:
+      github: n1c01a5
+      twitter: w_n1c01a5
+      linkedin: nicolas-wagner-ab59249a
+team_url: https://kleros.io/#team
+whitepapers:
+  - title: Kleros
+    url: https://kleros.io/assets/whitepaper.pdf
+webids:
+  github: kleros
+  twitter: kleros_io
+  facebook: kleros.io
+  linkedin/company: kleros
+  medium: kleros
+  telegram: kleros
+  reddit: Kleros
+  custom/forum: https://forum.kleros.io/

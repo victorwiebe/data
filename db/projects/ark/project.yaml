@@ -1,0 +1,30 @@
+name: Ark
+web: 
+  - 'http://ark.io/'
+ledgers:
+  - id: ark
+    name: Ark
+    type: blockchain
+    networks:
+      - id: main
+        type: main
+        name: mainnet
+        proof_type: PoW
+        mineable: false
+        tools:
+          - type: explorer
+            url: https://explorer.ark.io/
+assets:
+  - id: ark
+    type: native
+    name: Ark
+    ledger: ark
+    symbol: ARK
+    webids:
+      coinmarketcap: ark
+      cryptocompare: ark
+team:
+  - name: Mike Doty
+    role: Managing Director/Co-Founder
+    webids:
+      linkedin: mikedoty
